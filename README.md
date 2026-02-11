@@ -27,3 +27,4 @@ Please refer to the GitHub Page for complete information about:
 ## License
 
 This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+See the LICENSE file for details.
